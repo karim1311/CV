@@ -1,0 +1,12 @@
+body{
+  height: 100%;
+}
+
+.container{
+  display: flex;
+  margin: 0;
+  height: 100%;
+  max-width: 1440px;
+  box-sizing: border-box;
+}
+
