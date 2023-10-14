@@ -14,19 +14,19 @@ export default function side() {
         <h1 className="tloSec">PERFIL</h1>
         <div>
             <h1 className="tloPerfil">Dirección</h1>
-            <p>México.</p>
+            <p>Lomas del Pedregal, 80016,Culiacán, Sinaloa,México.</p>
         </div>
         <div>
             <h1 className="tloPerfil">Email</h1>
-            <p>karimsitopro@gmail.com</p>
+            <p>valenzuelakarim03@gmail.com</p>
         </div>
         <div>
             <h1 className="tloPerfil">Teléfono</h1>
-            <p>+52 1989 1311</p>
+            <p>+52 667 423 7848</p>
         </div>
         <div>
             <h1 className="tloPerfil">Fecha de nacimiento:</h1>
-            <p>13/12/1989</p>
+            <p>03/08/2001</p>
         </div>
         <div>
             <h1 className="tloPerfil">Permiso</h1>
@@ -36,7 +36,19 @@ export default function side() {
       <div className="seccion">
         <h1 className="tloSec">HABILIDADES</h1>
         <div>
-            <p>-Trabajo en equipo</p>
+            <p>-React</p>
+            <p>-Next.js</p>
+            <p>-Javascript</p>
+            <p>-Bootsrap</p>
+            <p>-Git</p>
+            <p>-GitHub</p>
+            <p>-Vercel</p>
+            <p>-CSS</p>
+            <p>-PHP</p>
+            <p>-Tailwind</p>
+            <p>-Laravel</p>
+            <p>-MySQL</p>
+            <p>-DBeaver</p>
         </div>
       </div>
       <div className="seccion">
@@ -49,7 +61,8 @@ export default function side() {
       <div className="seccion">
         <h1 className="tloSec">INTERESES</h1>
         <div>
-            <p>aprender</p>
+            <p>-Dominar algoritmos y estructura de datos</p>
+            <p>-Contribuir a creación y mantenimiento de aplicaciones extensas.</p>
         </div>
       </div>
     </div>

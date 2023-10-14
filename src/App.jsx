@@ -1,14 +1,13 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
 import './App.css'
 import Side from './components/side/Side'
+import Section from './components/section/Section'
 
 function App() {
 
   return (
-    <div className='container'>
+    <div className="container d-flex">
       <Side />
+      <Section />
     </div>
   )
 }
